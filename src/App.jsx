@@ -6,7 +6,7 @@ import { Navbar } from './components/Navbar';
 import { MobileMenu } from './components/MobileMenu';
 import { Home } from './components/sections/home';
 import { About } from './components/sections/offers';
-import { Tours } from './components/sections/tours';
+import { Tours } from './components/sections/Tours';
 import { Contact } from './components/sections/Contact';
 function App() {
   const [isLoaded, setIsLoaded] = useState(false)

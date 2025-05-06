@@ -14,22 +14,22 @@ export const Tours = () => {
         <h2 className="text-3xl font-bold mb-8 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent text-center">Recommended Tours</h2>
         <div className="flex flex-wrap justify-between py-20 gap-7">
     <div className="w-1/4 text-center "> 
-        <p className="text-2xl mb-2 bg-gradient-to-r from-blue-500 to-purple-400 bg-clip-text text-transparent text-center"> <strong>Айгирские скалы</strong></p><img src={Pic} alt="Описание 1" style ={{ border:'2px solid blue', borderRadius: '5px', padding: '5px'}} className="w-full border hover:-translate-y-1 transition-all"  />
+        <p className="text-2xl mb-2 bg-gradient-to-r from-blue-500 to-purple-400 bg-clip-text text-transparent text-center"> <strong>Aigir Rocks</strong></p><img src={Pic} alt="Описание 1" style ={{ border:'2px solid blue', borderRadius: '5px', padding: '5px'}} className="w-full border hover:-translate-y-1 transition-all"  />
     </div>
     <div className="w-1/4 text-center">
-        <p className="text-2xl mb-2 bg-gradient-to-r from-blue-500 to-purple-400 bg-clip-text text-transparent text-center" ><strong>Хребет Зюраткуль</strong></p><img src={Pic2} alt="Описание 2" style ={{ border:'2px solid blue', borderRadius: '5px', padding: '5px'}} className="w-full border hover:-translate-y-1 transition-all"  />
+        <p className="text-2xl mb-2 bg-gradient-to-r from-blue-500 to-purple-400 bg-clip-text text-transparent text-center" ><strong>Zyuratkul Ridge</strong></p><img src={Pic2} alt="Описание 2" style ={{ border:'2px solid blue', borderRadius: '5px', padding: '5px'}} className="w-full border hover:-translate-y-1 transition-all"  />
     </div>
     <div className="w-1/4 text-center">
-        <p className="text-2xl mb-2 bg-gradient-to-r from-blue-500 to-purple-400 bg-clip-text text-transparent text-center"> <strong> Маярдак</strong></p><img src={Pic3} alt="Описание 3" style ={{ border:'2px solid blue', borderRadius: '5px', padding: '5px'}} className="w-full border hover:-translate-y-1 transition-all"  />
+        <p className="text-2xl mb-2 bg-gradient-to-r from-blue-500 to-purple-400 bg-clip-text text-transparent text-center"> <strong>Mayardak</strong></p><img src={Pic3} alt="Описание 3" style ={{ border:'2px solid blue', borderRadius: '5px', padding: '5px'}} className="w-full border hover:-translate-y-1 transition-all"  />
     </div>
     <div className="w-1/4 text-center "> 
-        <p className="text-2xl mb-2 bg-gradient-to-r from-blue-500 to-purple-400 bg-clip-text text-transparent text-center"><strong>Инзерские зубчатки</strong></p><img src={Pic4} alt="Описание 1" style ={{ border:'2px solid blue', borderRadius: '5px', padding: '5px'}} className="w-full border hover:-translate-y-1 transition-all"  />
+        <p className="text-2xl mb-2 bg-gradient-to-r from-blue-500 to-purple-400 bg-clip-text text-transparent text-center"><strong>Inzer Pinnacles</strong></p><img src={Pic4} alt="Описание 1" style ={{ border:'2px solid blue', borderRadius: '5px', padding: '5px'}} className="w-full border hover:-translate-y-1 transition-all"  />
     </div>
     <div className="w-1/4 text-center">
-        <p className="text-2xl mb-2 bg-gradient-to-r from-blue-500 to-purple-400 bg-clip-text text-transparent text-center"><strong>Айские притесы</strong></p><img src={Pic5} alt="Описание 2" style ={{ border:'2px solid blue', borderRadius: '5px', padding: '5px'}} className="w-full border hover:-translate-y-1 transition-all"  />
+        <p className="text-2xl mb-2 bg-gradient-to-r from-blue-500 to-purple-400 bg-clip-text text-transparent text-center"><strong>Ay River Cliffs</strong></p><img src={Pic5} alt="Описание 2" style ={{ border:'2px solid blue', borderRadius: '5px', padding: '5px'}} className="w-full border hover:-translate-y-1 transition-all"  />
     </div>
     <div className="w-1/4 text-center "> 
-        <p className="text-2xl mb-2 bg-gradient-to-r from-blue-500 to-purple-400 bg-clip-text text-transparent text-center"><strong>Пещера Шульган-Таш</strong></p><img src={Pic6} alt="Описание 1" style ={{ border:'2px solid blue', borderRadius: '5px', padding: '5px'}} className="w-full border hover:-translate-y-1 transition-all"  />
+        <p className="text-2xl mb-2 bg-gradient-to-r from-blue-500 to-purple-400 bg-clip-text text-transparent text-center"><strong>Shulgan-Tash Cave</strong></p><img src={Pic6} alt="Описание 1" style ={{ border:'2px solid blue', borderRadius: '5px', padding: '5px'}} className="w-full border hover:-translate-y-1 transition-all"  />
         </div>
 </div>
         </div>
